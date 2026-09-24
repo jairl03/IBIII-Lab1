@@ -1,0 +1,28 @@
+Tabla 1. Voltaje teórico verificado en GPIO25 (Etapa 1).;;;
+;;;
+;V teórico ;;
+pH simulado;Monitor Serial (V);Osciloscopio (V);Multímetro (V)
+4;1.8275;1.79;1.778
+7;1.65;1.59;1.579
+10;1.4725;1.42;1.41
+;;;
+Tabla 2. Voltaje medido en el Nodo A, sin buffer (Etapa 2).;;;
+;;;
+pH simulado;Multímetro (V);Osciloscopio (V);
+4;0.854;1.69;
+7;0.758;1.52;
+10;0.678;1.36;
+;;;
+Tabla 3. Voltaje medido en el Nodo B, con buffer (Etapa 3).;;;
+;;;
+pH simulado;Con buffer TL084 (V);Con buffer LM324 (V);
+4;1.791;1.807;
+7;1.592;1.609;
+10;1.424;1.441;
+;;;
+Tabla 4. Voltaje medido en el Nodo B, con buffer y acople capacitivo (Etapa 3).;;;
+;;;
+pH simulado;Con buffer TL084 y acople (V);Con buffer LM324  y acople (V);
+4;1.789;1.807;
+7;1.591;1.608;
+10;1.423;1.44;
