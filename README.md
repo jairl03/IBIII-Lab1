@@ -3,10 +3,10 @@ Repositorio del Laboratorio 1 del curso de Intrumentación Biomédica III en el 
 
 ## Objetivo
 
-• Identificar experimentalmente el efecto de carga (loading error) al conectar una fuente de alta impedancia a un instrumento de medición.
-• Diseñar e implementar un buffer de alta impedancia de entrada utilizando un amplificador operacional con entrada JFET (TL084).
-• Comparar el desempeño de un buffer implementado con un amplificador de entrada bipolar (LM324) frente a uno de entrada JFET (TL084).
-• Generar, mediante un microcontrolador ESP32, una señal simulada de electrodo de pH en tres puntos de referencia (pH 4, 7 y 10) y usarla para poner a prueba el buffer.
+- Identificar experimentalmente el efecto de carga (loading error) al conectar una fuente de alta impedancia a un instrumento de medición.
+- Diseñar e implementar un buffer de alta impedancia de entrada utilizando un amplificador operacional con entrada JFET (TL084).
+- Comparar el desempeño de un buffer implementado con un amplificador de entrada bipolar (LM324) frente a uno de entrada JFET (TL084).
+- Generar, mediante un microcontrolador ESP32, una señal simulada de electrodo de pH en tres puntos de referencia (pH 4, 7 y 10) y usarla para poner a prueba el buffer.
 
 ## Cómo reproducir el experimento
 
